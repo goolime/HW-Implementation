@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HW-Definitions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HW-Definitions.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
